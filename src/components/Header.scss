@@ -1,7 +1,9 @@
 header {
   position: sticky;
+  position: -webkit-sticky;
   top: 0;
   backdrop-filter: blur(4rem);
+  -webkit-backdrop-filter: blur(4rem);
   background: #4e7acc;
 
   nav .nav-ul {
