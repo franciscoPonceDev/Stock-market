@@ -21,7 +21,7 @@
 
 ## Video Link
 
-[Project video Link](...)
+[Project video Link](https://www.loom.com/share/3ee1aa10eb1443308c6203a671101883)
 
 ## Getting Started
 
