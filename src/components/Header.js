@@ -21,7 +21,7 @@ const Header = () => (
               className="logo"
               to="/"
             >
-              <h1 className="title">Stock Performance</h1>
+              <h1 className="title">Stock Data App</h1>
             </Link>
           </li>
           <li className="ul-icons">
