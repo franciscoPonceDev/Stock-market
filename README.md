@@ -6,7 +6,7 @@
 
 
 ![screenshot]('https://raw.githubusercontent.com/franciscoPonceDev/stock-market/develop/src/assets/fierce-escarpment-98670.herokuapp.com_(iPhone%206_7_8).png')
-![screenshot]('https://www.loom.com/share/3ee1aa10eb1443308c6203a671101883')
+![screenshot]('https://github.com/franciscoPonceDev/stock-market/blob/develop/src/assets/fierce-escarpment-98670.herokuapp.com_(Desktop).png')
 
 
 ## Built With
