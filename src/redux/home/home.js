@@ -1,6 +1,6 @@
 export const apiKey = '005e8b42bf9481f42f885097e47c8e5c';
 const baseURL = `https://financialmodelingprep.com/api/v3/stock_market/gainers?apikey=${apiKey}`;
-const FETCH_COMPANIES = 'stock-performance/home/FETCH_COMPANIES';
+export const FETCH_COMPANIES = 'FETCH_COMPANIES';
 
 // initial state
 const initialState = [];
