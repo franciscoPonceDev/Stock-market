@@ -5,9 +5,9 @@
 > This is a SPA that shows financial statements in real time consuming [Financial modeling prep API](https://financialmodelingprep.com/developer/docs/)
 
 
-![screenshot]('./src/assets/fierce-escarpment-98670.herokuapp.com_(iPhone%206_7_8).png')
+![screenshot desktop]('https://github.com/franciscoPonceDev/stock-market/blob/develop/src/assets/fierce-escarpment-98670.herokuapp.com_(Desktop).png')
 
-![screenshot]('.src/assets/fierce-escarpment-98670.herokuapp.com_(Desktop).png')
+![screenshot mobile]('https://github.com/franciscoPonceDev/stock-market/blob/develop/src/assets/fierce-escarpment-98670.herokuapp.com_(iPhone%206_7_8).png')
 
 
 ## Built With
