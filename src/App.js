@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
-import Header from './components/Header';
+import Header from './container/Header';
 import Home from './components/Home';
 import Details from './components/Details';
 import store from './redux/configureStore';
