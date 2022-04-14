@@ -4,9 +4,8 @@
 
 > This is a SPA that shows financial statements in real time consuming [Financial modeling prep API](https://financialmodelingprep.com/developer/docs/)
 
-
-![screenshot]('./../src/assets/fierce-escarpment-98670.herokuapp.com_(Desktop).png')
-![screenshot]('./../src/assets/fierce-escarpment-98670.herokuapp.com_(iPhone%206_7_8).png')
+![Mobile version](https://user-images.githubusercontent.com/93161838/163415399-590b2fbf-9053-4007-8959-267c701eacf1.png)
+![Desktop version](https://user-images.githubusercontent.com/93161838/163415632-2ca12860-bb1c-4e78-8801-3b819a9a6792.png)
 
 
 ## Built With
@@ -60,3 +59,7 @@ Give a ⭐️ if you like this project!
 - Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
 - A special thanks to Microverse for inspiring this project. We are indebted to you all at Microverse
 - A special thanks goes to all our peers at Microverse for being there for us.
+
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
