@@ -20,7 +20,7 @@
 
 ## Video Link
 
-[Project video Link](https://www.loom.com/share/3ee1aa10eb1443308c6203a671101883)
+[Project video Link](https://www.loom.com/share/66586503d1d341e19f16ac76f17db4c7)
 
 ## Getting Started
 
